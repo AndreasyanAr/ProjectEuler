@@ -5,4 +5,3 @@ for i in range(0,100000001):
 
 print(sum_nums)
 # This code calculates the sum of all numbers from 0 to 10000 that are divisible by 3 or 5.
-# It initializes a variable `sum_nums` to zero, then
